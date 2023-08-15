@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87539D34-5D11-4E96-A4FB-82493DEA4B17"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "161AE3F6-B5AB-49C2-AF53-43DE606E096B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAppi/Modules/Marvel/Screens/Details/Components/DetailButtons.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "161AE3F6-B5AB-49C2-AF53-43DE606E096B - 794e32da6007223e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAppi.DetailButtons.init(CharCoordinator: SwiftUI.EnvironmentObject&lt;MarvelAppi.Coordinator&lt;MarvelAppi.CharacterRouter&gt;&gt;, char: MarvelAppi.MarvelCharacter) -&gt; MarvelAppi.DetailButtons"
+                  moduleName = "MarvelAppi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturkappel/HundredSwift/MarvelAppi/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "161AE3F6-B5AB-49C2-AF53-43DE606E096B - 55d0faa1ada032fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAppi.DetailButtons.init(CharCoordinator: SwiftUI.EnvironmentObject&lt;MarvelAppi.Coordinator&lt;MarvelAppi.CharacterRouter&gt;&gt;, char: SwiftUI.Binding&lt;MarvelAppi.MarvelCharacter&gt;) -&gt; MarvelAppi.DetailButtons"
+                  moduleName = "MarvelAppi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturkappel/HundredSwift/MarvelAppi/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

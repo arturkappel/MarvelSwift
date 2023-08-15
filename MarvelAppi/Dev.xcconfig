@@ -1,0 +1,15 @@
+//
+//  Dev.xcconfig
+//  MarvelAppi
+//
+//  Created by Artur Kappel on 15/08/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+HTTP_SCHEME = https
+BASE_URL = gateway.marvel.com/v1/public/
+
+PUBLIC_KEY = d8b6ba9a99980c6b97482eac7c7ee871
+PRIVATE_KEY = 1cdd3265e00f32b8f0267b6a83650cd7086b27c3

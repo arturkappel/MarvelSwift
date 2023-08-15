@@ -9,8 +9,24 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        TabView{
+            Home()
+                .tabItem {
+                    Label("Home", systemImage: "list.dash")
+                }
+            Favorite()
+                .tabItem {
+                    Label("Fav", systemImage: "list.dash")
+                }
+                
+        }
+        
+        .onAppear(){
+            UITabBar.appearance().barTintColor = UIColor(Color.marvelBlack)
+            UITabBar.appearance().isTranslucent = true
+            UITabBar.appearance().backgroundColor = UIColor(Color.marvelBlack)
+            UITabBar.appearance().tintColor = .yellow
+        }
     }
 }
 
